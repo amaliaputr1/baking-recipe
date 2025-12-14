@@ -31,7 +31,7 @@ Pastikan XAMPP sudah terinstall.
 
 Jalankan Apache & MySql dari XAMPP Control Panel
 
-Import Database: Buka PHPMyAdmin Buat Database baru : bakery_db Import File : backend/recipes.sql
+Import Database: Buka PHPMyAdmin Buat Database baru : bakery_recipes Import File : backend/recipes.sql
 
 Pada Command Prompt masuk ke directory C:\xampp\htdocs\bakery-recipes\frontend C:\xampp\htdocs\bakery-recipes\frontend> npm install C:\xampp\htdocs\bakery-recipes\frontend> npm run dev
 
