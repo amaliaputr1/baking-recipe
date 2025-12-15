@@ -22,7 +22,7 @@ function Navbar({ onSearch, onReset }) {
       {/* Judul */}
       <h1
         onClick={goHome}
-        className="text-2xl font-extrabold bg-gradient-to-r from-blue-500 to-blue-600 bg-clip-text text-transparent cursor-pointer tracking-tight hover:opacity-80 transition"
+        className="text-2xl font-extrabold bg-gradient-to-r from-orange-500 to-pink-600 bg-clip-text text-transparent cursor-pointer tracking-tight hover:opacity-80 transition"
       >
         BAKERY RECIPES
       </h1>
